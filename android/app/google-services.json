@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633623089633",
+    "project_id": "quizloy-95173",
+    "storage_bucket": "quizloy-95173.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633623089633:android:68493624b531e9fb6602a0",
+        "android_client_info": {
+          "package_name": "com.example.quiz_loy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHKAbR_keSyrpj1QYJGZniorv2Kybk5bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
